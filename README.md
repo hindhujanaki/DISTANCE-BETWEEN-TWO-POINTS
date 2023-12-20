@@ -27,6 +27,6 @@ out=round(d,2)
 print(out)
   ```
 ### OUTPUT:
-![Alt text](coordinates.png)
+![image](https://github.com/hindhujanaki/DISTANCE-BETWEEN-TWO-POINTS/assets/148514666/77e3c7d9-32b6-4876-ba9f-6fab658bf03d)
 ### RESULT:
 Thus the distance between two points are successfully executed.
